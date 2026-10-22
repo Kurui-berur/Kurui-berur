@@ -1,4 +1,4 @@
-# GEOFREY KIPKOGEI KURUI 
+# CHRISTOPHER IVEY
 
 I design and buld enteprise level software solutions that uses data and computation to solve complex problems and also customer experience and developer friendly products i design around  around observability,scallability,explicit boundaries and well defined contracts
 
@@ -58,5 +58,5 @@ I design and buld enteprise level software solutions that uses data and computat
 ## Connect
 
 * [GitHub](https://github.com/Kurui-berur/)
-* [LinkedIn](LINkedin.com/in/geofrey-kurui-198615182/)
-* [INSTAGRAM](https://www.instagram.com/ser_kurui/)
+* [LinkedIn](https://www.linkedin.com/in/christopher-ivey2023/)
+
